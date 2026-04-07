@@ -8,10 +8,6 @@ Built with **Streamlit** and **Scikit-learn**.
 The application is hosted on GitHub Pages:
 **[View Live App](https://atiar11.github.io/Laptop-Price-Predictor/)**
 
-## ✨ Features
-- Predict prices based on **Company**, **Type**, **RAM**, **OS**, **Weight**, etc.
-- Support for **Touchscreen**, **IPS**, **SSD**, **HDD**, and **Flash Storage** detection.
-- Fast and interactive UI.
 
 ## 🛠️ Installation
 To run this project locally, follow these steps:
@@ -33,8 +29,6 @@ To run this project locally, follow these steps:
    streamlit run app.py
    ```
 
-## 📊 Dataset & Model
-The model uses a **Random Forest Regressor** (within a Scikit-learn Pipeline) trained on a curated laptop prices dataset. The data includes features like CPU, GPU, Resolution, and Storage types.
 
 ## 🔗 Technologies Used
 - **Python**
