@@ -7,7 +7,7 @@ Built with **Streamlit** and **Scikit-learn**.
 ## Live Demo
 The application is hosted on GitHub Pages:
 **[View Live App](https://atiar11.github.io/Laptop-Price-Predictor/)**
-
+Since the app runs entirely in your browser (serverless), it may take 10-20 seconds to load the first time while it downloads the Python runtime. Subsequent loads will be much faster.
 
 ## 🛠️ Installation
 To run this project locally, follow these steps:
