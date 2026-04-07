@@ -1,10 +1,10 @@
-# 💻 Laptop Price Predictor
+# Laptop Price Predictor
 
 A machine learning-powered web application that predicts the price of a laptop based on its specifications. 
 
 Built with **Streamlit** and **Scikit-learn**.
 
-## 🚀 Live Demo
+## Live Demo
 The application is hosted on GitHub Pages:
 **[View Live App](https://atiar11.github.io/Laptop-Price-Predictor/)**
 
